@@ -53,4 +53,4 @@ Feel free to fork the repo, suggest improvements, or report bugs via Issues. Con
 
 ## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the MIT License.
