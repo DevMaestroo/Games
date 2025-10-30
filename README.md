@@ -39,7 +39,7 @@ Depending on the game, you may need:
 
 ## 👤 About the Creator
 
-**Username:** [devmaestroo] (https://github.com/devmaestroo)  
+**Username:** [devmaestroo](https://github.com/devmaestroo)  
 **Real Name:** Dushyant  
 A passionate developer exploring game logic and interactive design through simple, nostalgic games.
 
